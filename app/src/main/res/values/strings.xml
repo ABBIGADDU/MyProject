@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_email">Email/username</string>
+    <string name="hint_pass">Password</string>
+    <string name="err_msg_password">please enter correct password</string>
+    <string name="err_msg_name">please enter correct username</string>
+</resources>
